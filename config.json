@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtervync",
+        "uuid": 10473840,
+        "checksum": "0ovvjf"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
